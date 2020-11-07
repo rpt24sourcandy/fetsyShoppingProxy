@@ -1,2 +1,2 @@
-# fetsyPurchaseAndContactProxyServer
-Proxy server for purchase and contact modules
+# fetsyShoppingProxy
+Proxy server for shopping module
