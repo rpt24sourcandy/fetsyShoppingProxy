@@ -1,0 +1,1 @@
+ssh -i "/Users/sunitmody/Documents/RPT-24/rpt24-fec/fetsyShoppingProxy/fetsyProxy.pem" ec2-user@ec2-3-15-229-85.us-east-2.compute.amazonaws.com
