@@ -1,8 +1,10 @@
+const compression = require('compression');
 const express = require('express');
 const app = express();
 const port = 3000;
 const axios = require('axios').default;
 
+app.use(compression());
 app.use('/items/:itemId', express.static('client'));
 
 app.listen(port, () => {
